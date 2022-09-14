@@ -1,2 +1,2 @@
 # ProjFacul
-Lista de projetos em java realizados na faculdade.
+Lista de projetos realizados na faculdade.
